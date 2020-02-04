@@ -1,0 +1,35 @@
+dualCamLtmEnable=TRUE
+enableIPEDependencies=TRUE
+ignoreChromatixRGammaFlag=FALSE
+useHardcodedGamma=FALSE
+singleIFESupportedWidth=4928
+singleIFESupportedHeight=3696
+multiCameraEnable=TRUE
+disablePDAF=FALSE
+tintlessEnable=TRUE
+disableAECconvergeDependency=FALSE
+disableFocusIndication=1
+fovcEnable=0
+
+enable3ADebugData=TRUE
+debugDataSizeAEC=6000
+debugDataSizeAWB=700000
+debugDataSizeAF=70000
+
+EISV2Enable =0
+EISV3Enable =0
+
+advanceFeatureMask=0x47
+overrideFlashTorchCurrent=300
+enableNCSService=TRUE
+forceDisableUBWCOnIfeIpeLink=TRUE
+logInfoMask=0
+logVerboseMask=0
+logDRQEnable=FALSE
+overrideLogLevels=3
+capResolutionForSingleIFE=FALSE
+minReprocessInputWidth=2591
+minReprocessInputHeight=1939
+exposeFullSizeForQCFA=FALSE
+systemLogEnable=TRUE
+iseispreviewSupported=TRUE

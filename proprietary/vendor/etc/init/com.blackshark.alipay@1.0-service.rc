@@ -1,0 +1,4 @@
+service alipay /vendor/bin/hw/com.blackshark.alipay@1.0-service
+    class hal
+    user root
+    group system drmrpc

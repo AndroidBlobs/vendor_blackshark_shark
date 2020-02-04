@@ -1,0 +1,4 @@
+service iris-hal-1-0 /vendor/bin/hw/vendor.pixelworks.hardware.display@1.0-service
+    class hal
+    user system
+    group system
